@@ -9,7 +9,6 @@ h1{
 #inputValue{
     width: 300px;
     height: 25px;
-    /* margin-left: 40%; */
     border-radius: 5px;
 }
 .addTodo{
@@ -41,7 +40,6 @@ button{
 section{
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
    
 }
