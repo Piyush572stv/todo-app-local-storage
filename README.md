@@ -39,3 +39,7 @@ This project helped me understand:
 - CRUD Operations
 - JavaScript Functions
 
+## Live Demo
+https://piyush572stv.github.io/todo-app-local-storage/
+
+
